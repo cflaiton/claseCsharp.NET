@@ -1,0 +1,7 @@
+C:\Users\LAITON\source\repos\TallerActividad1\bin\Debug\TallerActividad1.exe.config
+C:\Users\LAITON\source\repos\TallerActividad1\bin\Debug\TallerActividad1.exe
+C:\Users\LAITON\source\repos\TallerActividad1\bin\Debug\TallerActividad1.pdb
+C:\Users\LAITON\source\repos\TallerActividad1\obj\Debug\TallerActividad1.csprojAssemblyReference.cache
+C:\Users\LAITON\source\repos\TallerActividad1\obj\Debug\TallerActividad1.csproj.CoreCompileInputs.cache
+C:\Users\LAITON\source\repos\TallerActividad1\obj\Debug\TallerActividad1.exe
+C:\Users\LAITON\source\repos\TallerActividad1\obj\Debug\TallerActividad1.pdb
